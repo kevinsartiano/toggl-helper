@@ -1,6 +1,6 @@
 # TOGGL HELPER
 
-## A simple Python tool to track your toggl projects in macOS.
+## A simple Python tool to track your Toggl projects in macOS.
 
 ### Install requirements
 
